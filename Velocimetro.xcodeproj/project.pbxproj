@@ -47,6 +47,7 @@
 		D3556F711D3A8EAE00A2920D /* VelocimetroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VelocimetroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3556F751D3A8EAE00A2920D /* VelocimetroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VelocimetroUITests.swift; sourceTree = "<group>"; };
 		D3556F771D3A8EAE00A2920D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3556F831D3A8EFD00A2920D /* Playground Velocimetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Playground Velocimetro.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				D3556F5C1D3A8EAE00A2920D /* Assets.xcassets */,
 				D3556F5E1D3A8EAE00A2920D /* LaunchScreen.storyboard */,
 				D3556F611D3A8EAE00A2920D /* Info.plist */,
+				D3556F831D3A8EFD00A2920D /* Playground Velocimetro.playground */,
 			);
 			path = Velocimetro;
 			sourceTree = "<group>";
